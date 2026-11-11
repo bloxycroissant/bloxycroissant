@@ -63,7 +63,7 @@
 
   <!-- Custom Cosmic Stat Badges -->
   <img src="https://img.shields.io/badge/⭐_Total_XP-5,400%2B-0a0b18?style=for-the-badge&logoColor=facc15&labelColor=0a0b18&color=38bdf8" alt="Total XP" />
-  <img src="https://img.shields.io/badge/🚀_Repositories-25%2B-0a0b18?style=for-the-badge&logoColor=38bdf8&labelColor=0a0b18&color=facc15" alt="Repositories" />
+  <img src="https://img.shields.io/badge/🚀_Repositories-4%2B-0a0b18?style=for-the-badge&logoColor=38bdf8&labelColor=0a0b18&color=facc15" alt="Repositories" />
   <img src="https://img.shields.io/badge/🎯_Level-Space_Scholar-0a0b18?style=for-the-badge&logoColor=86efac&labelColor=0a0b18&color=38bdf8" alt="Level" />
 
   <br/><br/>
