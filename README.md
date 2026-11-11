@@ -35,7 +35,7 @@
 > 🛠️ **Tech Stack:** `React Native` • `Expo` • `TypeScript` • `Reanimated` • `Gesture Handler` • `AsyncStorage` • `Supabase`
 
 ### 🥗 2. MacroMate *(Object-Oriented Programming Group Project)*
-> **Role:** 👑 Team Leader & Lead UI/UX Designer
+> **Role:** 👑 Project Owner, Team Leader & Lead Developer
 >
 > A comprehensive wellness tracker and nutrition journal designed to help users log meals, monitor macronutrients, and build healthy lifestyle habits through a polished, intuitive interface.
 >
