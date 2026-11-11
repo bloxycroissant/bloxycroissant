@@ -61,8 +61,20 @@
 
 <div align="center">
 
-![Bloxy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=denisesabando21-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0b18&title_color=38bdf8&icon_color=facc15)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denisesabando21-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0b18&title_color=38bdf8)
+  <!-- Custom Cosmic Stat Badges -->
+  <img src="https://img.shields.io/badge/⭐_Total_XP-5,400%2B-0a0b18?style=for-the-badge&logoColor=facc15&labelColor=0a0b18&color=38bdf8" alt="Total XP" />
+  <img src="https://img.shields.io/badge/🚀_Repositories-25%2B-0a0b18?style=for-the-badge&logoColor=38bdf8&labelColor=0a0b18&color=facc15" alt="Repositories" />
+  <img src="https://img.shields.io/badge/🎯_Level-Space_Scholar-0a0b18?style=for-the-badge&logoColor=86efac&labelColor=0a0b18&color=38bdf8" alt="Level" />
+
+  <br/><br/>
+
+  <!-- Top Languages / Tech Stack Badges -->
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
 
 </div>
 
