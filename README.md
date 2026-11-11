@@ -61,8 +61,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=denisesabando21-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0b18&title_color=38bdf8&icon_color=facc15" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisesabando21-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0b18&title_color=38bdf8" height="160" />
+![Bloxy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=denisesabando21-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0b18&title_color=38bdf8&icon_color=facc15)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denisesabando21-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0b18&title_color=38bdf8)
 
 </div>
 
@@ -73,7 +73,6 @@
 <div align="center">
 
 📧 **Project Contact:** `denisebiospherequest@gmail.com`  
-🏫 **Institution:** Technological Institute of the Philippines  
 
 <br>
 
