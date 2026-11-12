@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to Bloxy's Cosmic Universe! 🌌
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=UI%2FUX+Designer+%26+Developer;Game+Developer+%26+Full+Stack;Computer+Science+Student+%26+Leader;Building+Biosphere+Quest+%26+MacroMate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=UI%2FUX+Designer+%26+Developer;Game+Developer+%26+Full+Stack;Computer+Science+Student+%26+Leader;)](https://git.io/typing-svg)
 
 ### 🪐 *UI/UX Designer • UI/UX Developer • Game Developer • Full Stack Developer • CS Student* 🪐
 
